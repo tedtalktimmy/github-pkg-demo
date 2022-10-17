@@ -1,5 +1,7 @@
 # github-pkg-demo
 
+***note*** this is a test package deployment. this has no use.
+
 ## Installing GitHub Packages
 
 If you want to use this package, follow these instructions to install it:
